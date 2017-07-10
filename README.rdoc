@@ -1,4 +1,4 @@
-[![Build Status](https://semaphoreci.com/api/v1/goal-oladan/goal-oladan/branches/revert-1-feat4/badge.svg)](https://semaphoreci.com/goal-oladan/goal-oladan)
+<a href='https://semaphoreci.com/goal-oladan/goal-oladan'> <img src='https://semaphoreci.com/api/v1/goal-oladan/goal-oladan/branches/feat4/badge.svg' alt='Build Status'></a>
 
 == README
 
