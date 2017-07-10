@@ -1,5 +1,3 @@
-<a href='https://semaphoreci.com/goal-oladan/goal-oladan'> <img src='https://semaphoreci.com/api/v1/goal-oladan/goal-oladan/branches/feat4/badge.svg' alt='Build Status'></a>
-
 == README
 
 This README would normally document whatever steps are necessary to get the
