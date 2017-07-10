@@ -42,11 +42,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 
 gem 'devise'
-gem 'simplecov', :require => false, :group => :test
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.5'
-  gem 'shoulda-matchers', '~> 3.1'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
 end
